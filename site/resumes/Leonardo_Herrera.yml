@@ -50,13 +50,6 @@ experiences:
         None
     role: "Administracion"
     time: "2019 - Presente"
-  - 
-    company: "Casa Oliveira - Venezuela"
-    company_logo: "http://portal.casaoliveira.com/site/wp-content/uploads/2018/10/casaoliveiraLogo.png"
-    details: |
-        Desarrollo de Intranet, sistema para la gestion de ventas y cobranzas, sistema ERP para el manejo de recursos de la empresa.
-    role: "IT Manager"
-    time: "2010 - 2019"
 # projects: 
 #   assignments: 
 #     - 
